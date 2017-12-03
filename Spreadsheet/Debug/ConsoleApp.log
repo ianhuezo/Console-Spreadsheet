@@ -1,0 +1,8 @@
+﻿  ConsoleApp.cpp
+c:\users\ian\documents\visual studio 2017\projects\consoleapp\consoleapp\consoleapp.cpp(189): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\ian\documents\visual studio 2017\projects\consoleapp\consoleapp\consoleapp.cpp(196): warning C4101: 'numberPosition': unreferenced local variable
+c:\users\ian\documents\visual studio 2017\projects\consoleapp\consoleapp\consoleapp.cpp(194): warning C4101: 'characterPosition': unreferenced local variable
+c:\users\ian\documents\visual studio 2017\projects\consoleapp\consoleapp\consoleapp.cpp(195): warning C4101: 'getCharacterNumber': unreferenced local variable
+  ConsoleApp.vcxproj -> C:\Users\ian\documents\visual studio 2017\Projects\ConsoleApp\Debug\ConsoleApp.exe
+  ConsoleApp.vcxproj -> C:\Users\ian\documents\visual studio 2017\Projects\ConsoleApp\Debug\ConsoleApp.pdb (Partial PDB)
